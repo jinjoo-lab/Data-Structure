@@ -7,7 +7,7 @@
     - 가장 마지막에 넣은 값부터 차례대로 꺼낼 수 있다.
 - 가장 대표적으로 프링글스 통을 생각하면 쉽다.
 
-![Alt text](https://github.com/jinjoo-lab/Data-Structure/issues/2#issue-1774276008)
+![Alt text](https://user-images.githubusercontent.com/84346055/248739113-45a54425-1d76-48e7-906d-4f3439789bdd.png)
 
 **스택의 3가지 연산**
 
