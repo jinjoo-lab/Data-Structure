@@ -19,14 +19,14 @@
     - pop 연산 수행 → Head 의 인덱스가 1 증가
 - 위 두 연산이 반복적으로 수행되는 경우 남는(쓰레기 공간) 발생
 
-![Untitled](%E1%84%8F%E1%85%B2%20b6a0746696a94b3da9a2131a7b1fab31/Untitled.png)
+![Alt text](https://user-images.githubusercontent.com/84346055/249180714-a72c2f24-6bfa-4cb0-aede-b612c8b9dfa2.png)
 
 **해결 방법**
 
 - 원형 큐(Circular Queue) 사용
     - 기본적인 큐에서 Tail의 위치가 **마지막 인덱스에 도달한 경우 0으로 교체**
 
-![Untitled](%E1%84%8F%E1%85%B2%20b6a0746696a94b3da9a2131a7b1fab31/Untitled%201.png)
+![Alt text](https://user-images.githubusercontent.com/84346055/249180733-adbdb534-0a3b-4f44-9a18-51f468273447.png)
 
 **리스트를 이용한 큐**
 
