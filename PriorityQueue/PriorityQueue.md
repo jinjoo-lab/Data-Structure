@@ -4,7 +4,7 @@
 
 - 우선순위를 가지는 데이터를 저장하는 큐
 
-![Untitled](%E1%84%92%E1%85%B5%E1%86%B8%20(%E1%84%8B%E1%85%AE%E1%84%89%E1%85%A5%E1%86%AB%E1%84%89%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B1%20%E1%84%8F%E1%85%B2)%208182893f677148bd89790be817ca0ee2/Untitled.png)
+![Alt text](https://user-images.githubusercontent.com/84346055/250363643-d459cd4e-94bb-49ad-bf34-8218099ffbbf.png)
 
 - 사용자가 지정한 우선순위에 따라 가장 우선시되는 데이터가 앞단에 위치
 
@@ -34,7 +34,7 @@
 
 - 부모 노드의 우선순위가 자식 노드의 우선순위보다 작거나 같다
 
-![Untitled](%E1%84%92%E1%85%B5%E1%86%B8%20(%E1%84%8B%E1%85%AE%E1%84%89%E1%85%A5%E1%86%AB%E1%84%89%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B1%20%E1%84%8F%E1%85%B2)%208182893f677148bd89790be817ca0ee2/Untitled%201.png)
+![Alt text](https://user-images.githubusercontent.com/84346055/250363638-36faa64d-8974-4842-91ff-0071c4f8d44c.png)
 
 ### 힙 연산
 
@@ -47,7 +47,7 @@
         - 삽입된 노드부터 루트까지의 경로의 노드들간의 우선순위를 비교 (교환 발생)
         - O(logN)
 
-![Untitled](%E1%84%92%E1%85%B5%E1%86%B8%20(%E1%84%8B%E1%85%AE%E1%84%89%E1%85%A5%E1%86%AB%E1%84%89%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B1%20%E1%84%8F%E1%85%B2)%208182893f677148bd89790be817ca0ee2/Untitled%202.png)
+![Alt text](https://user-images.githubusercontent.com/84346055/250363642-2dce313d-98cb-402a-bd46-1e8d0bb228c2.png)
 
 **삭제**
 
