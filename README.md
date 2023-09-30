@@ -3,7 +3,7 @@
 
 ### [알고리즘]
 - 백트랙킹
-[백트랙킹]https://github.com/jinjoo-lab/Data-Structure/blob/main/Algorithm/BackTracking.md
+[백트랙킹](https://github.com/jinjoo-lab/Data-Structure/blob/main/Algorithm/BackTracking.md)
 - 이진탐색
 - 다익스트라
 - 플로이드-워셜
