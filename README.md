@@ -17,7 +17,8 @@
 - [큐](https://github.com/jinjoo-lab/Data-Structure/blob/main/Data-Structure/Queue/Queue.md)
 - [스택](https://github.com/jinjoo-lab/Data-Structure/blob/main/Data-Structure/Stack/stack.md)
 - 트리
-  - [세그먼트 트리](https://github.com/jinjoo-lab/Data-Structure/blob/main/Data-Structure/Tree/SegmentTree.md)   
+  - [세그먼트 트리](https://github.com/jinjoo-lab/Data-Structure/blob/main/Data-Structure/Tree/SegmentTree.md)
+  - [분리 집합](https://github.com/jinjoo-lab/Data-Structure/blob/main/Data-Structure/Tree/Union_Find.md)   
 
   
 ### [정렬]
