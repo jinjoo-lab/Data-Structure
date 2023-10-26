@@ -20,6 +20,8 @@
   - [세그먼트 트리](https://github.com/jinjoo-lab/Data-Structure/blob/main/Data-Structure/Tree/SegmentTree.md)
   - [분리 집합](https://github.com/jinjoo-lab/Data-Structure/blob/main/Data-Structure/Tree/Union_Find.md)   
 
+### [수학]
+- [소수판별](https://github.com/jinjoo-lab/Data-Structure/blob/main/Math/PrimeNumber.md)
   
 ### [정렬]
 - [퀵정렬](https://github.com/jinjoo-lab/Data-Structure/blob/main/Sort/QuickSort.md)
