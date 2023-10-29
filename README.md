@@ -22,6 +22,7 @@
 
 ### [수학]
 - [소수판별](https://github.com/jinjoo-lab/Data-Structure/blob/main/Math/PrimeNumber.md)
+- [유클리드 호제법](https://github.com/jinjoo-lab/Data-Structure/blob/main/Math/GCD_LCM.md)
   
 ### [정렬]
 - [퀵정렬](https://github.com/jinjoo-lab/Data-Structure/blob/main/Sort/QuickSort.md)
