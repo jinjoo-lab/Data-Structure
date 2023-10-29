@@ -37,7 +37,7 @@ static void find(int min,int max){
 >
 - 위 특징을 재귀적으로 접근하여 나머지가 0이 되는 순간 y의 값이 최대 공약수이다.
 
-![Untitled](GCD%20+%20LCM%20b10b8743aa604001b3efb77f0aaa9fbb/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/84346055/278854197-a1a98f8b-fe2c-4594-875b-8fbaaf2a6cb3.png)
 
 ### 반복문
 
