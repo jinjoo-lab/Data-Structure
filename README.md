@@ -10,6 +10,7 @@
 - [MST](https://github.com/jinjoo-lab/Data-Structure/blob/main/Algorithm/MST.md)
 - [투-포인터](https://github.com/jinjoo-lab/Data-Structure/blob/main/Algorithm/TwoPointer.md)
 - [위상정렬](https://github.com/jinjoo-lab/Data-Structure/blob/main/Algorithm/topologySort.md)
+- [LIS](https://github.com/jinjoo-lab/Data-Structure/blob/main/Algorithm/LIS.md)
 
 ### [자료구조]
 - [해시](https://github.com/jinjoo-lab/Data-Structure/blob/main/Data-Structure/Hash/Hash.md)
