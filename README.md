@@ -1,7 +1,7 @@
-# Data-Structure
-# 한국공학대학교 알고리즘 스터디
+# Data-Structure + Algorithm 스터디 복습 레포지토리
+### 한국공학대학교 알고리즘 스터디 (TUK - Algorithm Study 의 내용을 기반으로 복습 + 정리한 레포지토리)
 
-## 진행 방식
+### 진행 방식
 
 스터디 깃허브 : [TUK-Algorithm](https://github.com/TUK-Algorithm-Study/study)
 
