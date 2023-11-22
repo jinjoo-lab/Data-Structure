@@ -4,6 +4,8 @@
 
 ### 🎯 진행 방식
 
+스터디 깃허브 : [깃허브](https://github.com/TUK-Algorithm-Study/study)
+
 시간: 매주 토요일 (경우에 따라 변동 가능)
 
 장소: 디스코드
