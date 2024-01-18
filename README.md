@@ -54,7 +54,8 @@
 - 트리
   - [트리](https://github.com/jinjoo-lab/Data-Structure/blob/main/Data-Structure/Tree/Tree.md)
   - [세그먼트 트리](https://github.com/jinjoo-lab/Data-Structure/blob/main/Data-Structure/Tree/SegmentTree.md)
-  - [분리 집합](https://github.com/jinjoo-lab/Data-Structure/blob/main/Data-Structure/Tree/Union_Find.md)   
+  - [분리 집합](https://github.com/jinjoo-lab/Data-Structure/blob/main/Data-Structure/Tree/Union_Find.md)
+  - [트리 많게 적게 정점 칠하기](https://github.com/jinjoo-lab/Data-Structure/blob/main/Data-Structure/Tree/%ED%8A%B8%EB%A6%AC_%EB%A7%8E%EA%B2%8C_%EC%A0%81%EA%B2%8C_%EC%B9%A0%ED%95%98%EA%B8%B0.md)
 
 ### [수학]
 - [소수판별](https://github.com/jinjoo-lab/Data-Structure/blob/main/Math/PrimeNumber.md)
